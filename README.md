@@ -1,0 +1,4 @@
+mdNewsletterDoctrinePlugin
+==========================
+
+For newsletter management
